@@ -1,5 +1,8 @@
 # sentiment-analysis
 Sentimental analysis flask api.
+<p align="center">
+    <img alt="Open Source" src="https://img.shields.io/badge/Maintained%3F-Yes-9cf?style=for-the-badge">
+</p>
 
 ## About model
 
