@@ -7,6 +7,11 @@ Sentimental analysis flask api.
 ## About model
 
 According to analysis, best algorithm for the given problem was Linear SVC. It will fit to the data provided, returning a "best fit" hyperplane that divides, or categorizes, the data.
+![alt text](https://raw.githubusercontent.com/fasalmbt/sentiment-analysis/main/picture/svm.png)
+
+Have also made a model based on KNN 
+
+![alt text](https://raw.githubusercontent.com/fasalmbt/sentiment-analysis/main/picture/knn.png)
 
 
 ### How to run the model
