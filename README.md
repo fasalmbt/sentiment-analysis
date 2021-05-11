@@ -8,6 +8,7 @@ Sentimental analysis flask api.
 
 According to analysis, best algorithm for the given problem was Linear SVC. It will fit to the data provided, returning a "best fit" hyperplane that divides, or categorizes, the data.
 
+
 ### How to run the model
 
 ```
